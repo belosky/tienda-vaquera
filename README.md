@@ -1,4 +1,4 @@
-# 🤠 El Ranchero Store
+# El Ranchero Store
 
 Página web estática para una tienda de ropa vaquera y western: botas, sombreros, cintos y camisas. Hecha solo con HTML, CSS y JavaScript, sin frameworks ni dependencias.
 
